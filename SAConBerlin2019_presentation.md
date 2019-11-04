@@ -1,3 +1,6 @@
+ footer: @TheMartianLife | @parisba | #OReillySACon
+theme: Business Class
+slidenumbers: true
 
 <!-- SHORT:
 Data science, machine learning, and data manipulation and preparation are all core components of a future, trendy, world of software engineering. Many of these are built with "quick hacks," tiny scripts, or based on pipelines that are cobbled together from multiple components, frameworks, and the like. Mars Geldard and Paris Buttfield-Addison explore if software architecture matters to this world.
@@ -40,39 +43,112 @@ You’ll find out if architecture matters when you’re building a “little scr
 
 This talk came about after we spoke at SA Con in New York City, in February this year.
 
+---
+
 We had a bunch of great conversations.
+
+---
 
 We'd honestly expected SA Con to be really dry. 
 
+---
+
 But it wasn't. 
+
+---
 
 It was great.
 
+---
+
 It was exciting.
+
+---
 
 We'd imagined Software Architects to be boring, unenthused, and all manner of other less than flattering things.
 
+---
+
 But we found a community of passionate people thinking and doing things to improve the technology industry as a whole.
+
+---
 
 And we had some conversations. We're often doing machine learning, or data science work.
 
+---
+
 And we noticed that a lot of the things the really interesting software architects we met were doing, or discuss, sounded a bit out of the ordinary in the data science world.
+
+---
 
 So we did a little bit of research.
 
-This included a few things.
+---
+
+TODO PARIS INFO
+
+^ PARIS: I'm a researcher, i have a PhD in Computer Science, and I specialise in Qualitative Research into how and why people are behaving around, and with, technology.
+
+---
+
+TODO MARS INFO
+
+^ MARS: I'm a ... data scientist, researcher, etc. Pretty damn amazing. (MARS FILL THIS IN)
+
+---
+
+This included a few things. We'll come back to that.
+
+---
+
+> Data Scientist: The Sexiest Job of the 21st Century
+-- https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century
+
+---
+
+![inline fit](venn.png)
+
+Diagram by Steven Geringer from IBM.
+
+---
+
+^ Having basic (or even advanced) programming skills is key to put your end to end experiment together, however it does not mean that you have created an application that is production ready. Unless you have come into Data Science and Machine Learning (ML) from an IT background and have tangible experience into building enterprise, distributed, solid systems, your Jupyter notebook does not qualify as a great piece of software and sadly does not make you a Software Engineer!
+
+
+---
+
+^ What you have built is a great prototype of a predictive product, but you still have to push it through the engineering roadmap. What you need is a team of professional Software Engineers by your side to take your (disposable) proof of concept and turn it into a performant, reliable, loosely coupled and scalable system!
+
+
+---
+
+TODO TODO TODO GAP TO FILL
+
+---
 
 Surveys
 
+---
+
 Conversations ("semi-structured interviews")
+
+---
 
 Textual analysis of data-science writings
 
+---
+
 Textual analysis of software architecture writings
+
+---
 
 It's very preliminary, but it's been showing some interesting directions.
 
+---
+
 So, our talk today is some of our preliminary findings on this.
+
+---
 
 There's a few tentpole questions that we're going to structure this around.
 
@@ -102,3 +178,74 @@ We both have a lot of experience in qualitative research. So this talk takes tha
 
 ---
 
+We'll leave time for your questions at the end.
+
+---
+
+# Participation
+
+![inline 100%](graph_participants.png)
+
+^ When we performed our preliminary analysis to give this talk, we'd have 470 respondents. This is an excellent response rate.  "Data Science", "Software Engineering", "Software Architecture", "Other".
+
+---
+
+# What does 'software architecture' mean to you?
+
+---
+
+TODO
+
+---
+
+# What does 'software engineering' mean to you?
+
+---
+
+TODO
+
+---
+
+# Do you write lots of 'little scripts' or do you 'architect a solution'? Or do you do something else?
+
+---
+
+# Findings, summarised
+
+---
+
+# Architecture doesn't matter, but not because they don't care.
+
+---
+
+# Finding a solution is more important than finding a good solution.
+
+---
+
+# To a point.
+
+---
+
+# Most data scientists are not software engineers.
+
+---
+
+# Most data scientists are passable programmers.
+
+---
+
+# Most data scientists are passable programmers.
+# But they're still not software engineers.
+
+---
+
+# We need more data scientists who are also software people.
+
+---
+
+# But we also need more software people who embrace the nimble nature of building data science tools and pipelines.
+
+---
+
+
+What you have built is a great prototype of a predictive product, but you still have to push it through the engineering roadmap. What you need is a team of professional Software Engineers by your side to take your (disposable) proof of concept and turn it into a performant, reliable, loosely coupled and scalable system!
