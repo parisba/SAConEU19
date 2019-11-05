@@ -228,15 +228,29 @@ TODO EXPLAIN CODING ETC.
 
 ---
 
-# Participation
+# Survey Participation
 
-
+^ OK, so the primary means of data collection we used was a collection of free-form surveys. By free-form, we mean we asked for text answers, of as long as people felt like giving us.
 
 ---
 
+# Huge response!
+
+^ We got a huge response. Truly astonishing. We were expecting maybe 100 or so people. We're nearly at 500, and it's still going.
+
+---
+
+# Participant professions
+
+^ We asked participants what they did. At the point we did some analysis to prepare for giving our preliminary findings in this talk, our breakdown was as follows.
+
+---
+
+# Participant professions
+
 ![inline](graph_participants.png)
 
-^ When we performed our preliminary analysis to give this talk, we'd have 470 respondents. This is an excellent response rate.  "Data Science", "Software Engineering", "Software Architecture", "Other".
+^ When we performed our preliminary analysis to give this talk, we had 470 respondents. And people are still responding. This is an excellent response rate.  "Data Science", "Software Engineering", "Software Architecture", "Other".
 
 ---
 
@@ -244,10 +258,16 @@ TODO EXPLAIN CODING ETC.
 
 ---
 
+# What do people think of software architecture? What does it mean to them?
+
+^ For our first set of preliminary results, let's take a look at what people think software architecture means. What's it mean to people?
 
 ---
 
 # What does 'software architecture' mean to you?
+# **Data Scientist**
+
+^ First, the people who said they were mostly data scientists. 
 
 ---
 
@@ -256,12 +276,23 @@ TODO EXPLAIN CODING ETC.
 
 > "Software architecture is a design created as a solution to a relatively large and complex software engineering problem."
 
+^ We got a lot of comments like this. Fairly straightforward, unambiguous comments on software architecture. I don't think too many folks at this conference would disagree with this, no?
+
 ---
 
 # What does 'software architecture' mean to you?
 # **Data Scientist**
 
 > "Software architecture is the result of breaking down and modularising a large, inter-connected problem into a (hopefully) rational, elegant, and understandable set of interacting components."
+
+^ We got a few slightly more descriptive ones, like this, as well.
+
+---
+
+# What does 'software architecture' mean to you?
+# **Software Engineer**
+
+^ People who said they were primarily Software Engineers next.. 
 
 ---
 
@@ -270,11 +301,15 @@ TODO EXPLAIN CODING ETC.
 
 > "Planning the building of software, factoring in requirements, limitations, audience, and developer experience. Designing to be modular, intelligent, and reusable."
 
+^ They got a little more expressive with their description of software architecture. Trying to unpack its pieces. We got a lot responses like this from the software engineering crowd. 
+
 ---
 # What does 'software architecture' mean to you?
 # **Software Engineer**
 
 > "Properly designed software!"
+
+^ We also got the, to be honest, expected, smartass comments. Like this one.
 
 ---
 
@@ -283,12 +318,16 @@ TODO EXPLAIN CODING ETC.
 
 > "Properly designed software, rather than a big pile of spaghetti encased in mud."
 
+^ And like this one. Lots and lots of smartass comments from the software engineering crowd.
+
 ---
 
 # What does 'software architecture' mean to you?
 # **Software Engineer**
 
 > "Heavy sigh."
+
+^ Even comments like this, which we got, verbatim, in this exact form, 11 times, from software engineers. 
 
 ---
 
@@ -297,12 +336,24 @@ TODO EXPLAIN CODING ETC.
 
 > "High level design, and decider or general toolset and technical direction."
 
+^ But we also got a lot of thoughtful comments, that largely uncontroversial to anyone at this event, I think?
+
 ---
 
 # What does 'software architecture' mean to you?
 # **Software Engineer**
 
 > "The collection of paradigms, data structures, methodologies, and high-level design used to build a given particular piece of software." 
+
+^ Pretty straightforward stuff.
+
+---
+
+
+# What does 'software architecture' mean to you?
+# **Software Architect**
+
+^ Next up, those who identified as working in software architecture. Theoretically these people are the same as the attendees at this event.
 
 ---
 
@@ -311,12 +362,16 @@ TODO EXPLAIN CODING ETC.
 
 > "The blueprint of future proofed, secure, progressively enhanced, decoupled, and perfectly integrated code."
 
+^ We got a lot of very thoughtful, wordy, yet generally uncontroversial responses, like this one.
+
 ---
 
 # What does 'software architecture' mean to you?
 # **Software Architect**
 
 > "3tier/MVC/Micro services/etc"
+
+^ We had a few people spit out some buzzwords. Which is fair enough, it's a fairly jargon heavy industry.
 
 ---
 
@@ -325,25 +380,81 @@ TODO EXPLAIN CODING ETC.
 
 > "Managing software engineers."
 
+^ A surprising number of people said that software architecture is "managing engineers". This isn't something we personally agree with, but it's probably unreasonably accurate. Even if we wouldn't like to admit it at this conference?
+
 ---
 
+
 # What does 'software architecture' mean to you?
-# **Other**
+# **Software Architect**
 
 > "Building software that serves its purpose."
+
+^ We also got a few responses that looked like this, which I think is reasonable. 
+
 
 ---
 
 # What does 'software engineering' mean to you?
 
-TODO TODO TODO
+^ Next up, let's look at what people think Software Engineering means.
 
 ---
 
-TODO
+
+# What does 'software engineering' mean to you?
+# **Data Scientist**
+
+
+^ Again, let's look at what the Data Scientist people think first.
 
 ---
 
+
+# What does 'software engineering' mean to you?
+# **Data Scientist**
+
+> "Software engineering is a principled, professional approach to creating good software architecture."
+
+---
+
+
+# What does 'software engineering' mean to you?
+# **Data Scientist**
+
+> "I mostly tend to differentiate between 'software engineering' and 'computer programming' by the scope and level of professional care involved."
+
+---
+
+
+# What does 'software engineering' mean to you?
+# **Data Scientist**
+
+> "Software engineering is designing and implementing components not just with the overall design/architecture in mind, but also the overarching goals of that architecture."
+
+---
+
+# What does 'software engineering' mean to you?
+# **Data Scientist**
+
+> "Developing non-trivial software is kind of fractal in nature: as you zoom in, the level of complexity doesn't always decrease."
+
+---
+
+
+# What does 'software engineering' mean to you?
+# **Software Engineer**
+
+> "The development of software."
+
+---
+
+# What does 'software engineering' mean to you?
+# **Software Engineer**
+
+> "A dream that we're good at our jobs."
+
+---
 # Do you write lots of 'little scripts' or do you 'architect a solution'? Or do you do something else?
 
 ---
