@@ -174,6 +174,12 @@ TODO EXPLAIN CODING ETC.
 
 ---
 
+# If you are here for numbers, you might be disappointed.
+
+^ This is qualitative research.
+
+---
+
 # So what did we find?
 
 ^ It's very preliminary, but it's been showing some interesting directions.
@@ -258,20 +264,20 @@ TODO EXPLAIN CODING ETC.
 
 ---
 
-# What do people think of software architecture? What does it mean to them?
+# What does 'software architecture' mean?
 
 ^ For our first set of preliminary results, let's take a look at what people think software architecture means. What's it mean to people?
 
 ---
 
-# What does 'software architecture' mean to you?
+# What does 'software architecture' mean?
 # **Data Scientist**
 
 ^ First, the people who said they were mostly data scientists. 
 
 ---
 
-# What does 'software architecture' mean to you?
+# What does 'software architecture' mean?
 # **Data Scientist**
 
 > "Software architecture is a design created as a solution to a relatively large and complex software engineering problem."
@@ -280,7 +286,7 @@ TODO EXPLAIN CODING ETC.
 
 ---
 
-# What does 'software architecture' mean to you?
+# What does 'software architecture' mean?
 # **Data Scientist**
 
 > "Software architecture is the result of breaking down and modularising a large, inter-connected problem into a (hopefully) rational, elegant, and understandable set of interacting components."
@@ -289,14 +295,14 @@ TODO EXPLAIN CODING ETC.
 
 ---
 
-# What does 'software architecture' mean to you?
+# What does 'software architecture' mean?
 # **Software Engineer**
 
 ^ People who said they were primarily Software Engineers next.. 
 
 ---
 
-# What does 'software architecture' mean to you?
+# What does 'software architecture' mean?
 # **Software Engineer**
 
 > "Planning the building of software, factoring in requirements, limitations, audience, and developer experience. Designing to be modular, intelligent, and reusable."
@@ -304,7 +310,7 @@ TODO EXPLAIN CODING ETC.
 ^ They got a little more expressive with their description of software architecture. Trying to unpack its pieces. We got a lot responses like this from the software engineering crowd. 
 
 ---
-# What does 'software architecture' mean to you?
+# What does 'software architecture' mean?
 # **Software Engineer**
 
 > "Properly designed software!"
@@ -313,7 +319,7 @@ TODO EXPLAIN CODING ETC.
 
 ---
 
-# What does 'software architecture' mean to you?
+# What does 'software architecture' mean?
 # **Software Engineer**
 
 > "Properly designed software, rather than a big pile of spaghetti encased in mud."
@@ -322,7 +328,7 @@ TODO EXPLAIN CODING ETC.
 
 ---
 
-# What does 'software architecture' mean to you?
+# What does 'software architecture' mean?
 # **Software Engineer**
 
 > "Heavy sigh."
@@ -331,7 +337,7 @@ TODO EXPLAIN CODING ETC.
 
 ---
 
-# What does 'software architecture' mean to you?
+# What does 'software architecture' mean?
 # **Software Engineer**
 
 > "High level design, and decider or general toolset and technical direction."
@@ -340,7 +346,7 @@ TODO EXPLAIN CODING ETC.
 
 ---
 
-# What does 'software architecture' mean to you?
+# What does 'software architecture' mean?
 # **Software Engineer**
 
 > "The collection of paradigms, data structures, methodologies, and high-level design used to build a given particular piece of software." 
@@ -350,14 +356,14 @@ TODO EXPLAIN CODING ETC.
 ---
 
 
-# What does 'software architecture' mean to you?
+# What does 'software architecture' mean?
 # **Software Architect**
 
 ^ Next up, those who identified as working in software architecture. Theoretically these people are the same as the attendees at this event.
 
 ---
 
-# What does 'software architecture' mean to you?
+# What does 'software architecture' mean?
 # **Software Architect**
 
 > "The blueprint of future proofed, secure, progressively enhanced, decoupled, and perfectly integrated code."
@@ -366,7 +372,7 @@ TODO EXPLAIN CODING ETC.
 
 ---
 
-# What does 'software architecture' mean to you?
+# What does 'software architecture' mean?
 # **Software Architect**
 
 > "3tier/MVC/Micro services/etc"
@@ -375,7 +381,7 @@ TODO EXPLAIN CODING ETC.
 
 ---
 
-# What does 'software architecture' mean to you?
+# What does 'software architecture' mean?
 # **Software Architect**
 
 > "Managing software engineers."
@@ -385,7 +391,7 @@ TODO EXPLAIN CODING ETC.
 ---
 
 
-# What does 'software architecture' mean to you?
+# What does 'software architecture' mean?
 # **Software Architect**
 
 > "Building software that serves its purpose."
@@ -395,14 +401,14 @@ TODO EXPLAIN CODING ETC.
 
 ---
 
-# What does 'software engineering' mean to you?
+# What does 'software engineering' mean?
 
 ^ Next up, let's look at what people think Software Engineering means.
 
 ---
 
 
-# What does 'software engineering' mean to you?
+# What does 'software engineering' mean?
 # **Data Scientist**
 
 
@@ -411,7 +417,7 @@ TODO EXPLAIN CODING ETC.
 ---
 
 
-# What does 'software engineering' mean to you?
+# What does 'software engineering' mean?
 # **Data Scientist**
 
 > "Software engineering is a principled, professional approach to creating good software architecture."
@@ -419,7 +425,7 @@ TODO EXPLAIN CODING ETC.
 ---
 
 
-# What does 'software engineering' mean to you?
+# What does 'software engineering' mean?
 # **Data Scientist**
 
 > "I mostly tend to differentiate between 'software engineering' and 'computer programming' by the scope and level of professional care involved."
@@ -427,14 +433,14 @@ TODO EXPLAIN CODING ETC.
 ---
 
 
-# What does 'software engineering' mean to you?
+# What does 'software engineering' mean?
 # **Data Scientist**
 
 > "Software engineering is designing and implementing components not just with the overall design/architecture in mind, but also the overarching goals of that architecture."
 
 ---
 
-# What does 'software engineering' mean to you?
+# What does 'software engineering' mean?
 # **Data Scientist**
 
 > "Developing non-trivial software is kind of fractal in nature: as you zoom in, the level of complexity doesn't always decrease."
@@ -442,19 +448,299 @@ TODO EXPLAIN CODING ETC.
 ---
 
 
-# What does 'software engineering' mean to you?
+# What does 'software engineering' mean?
 # **Software Engineer**
 
 > "The development of software."
 
 ---
 
-# What does 'software engineering' mean to you?
+# What does 'software engineering' mean?
 # **Software Engineer**
 
 > "A dream that we're good at our jobs."
 
 ---
+
+# What does 'software engineering' mean?
+# **Software Architect**
+
+---
+
+# What does 'software engineering' mean?
+# **Software Architect**
+
+> "Nothing. It means nothing."
+
+---
+
+# What does 'software engineering' mean?
+# **Software Architect**
+
+> "The development and delivery of a defined software product of predicted and measurable quality to a predicted schedule."
+
+---
+
+# What does 'software engineering' mean?
+# **Software Architect**
+
+> "Fine tuning the software you built."
+
+---
+
+# What does 'software engineering' mean?
+# **Software Architect**
+
+> "It's at a lower level than development. Anyone can develop a website, but only engineers can build a language and compiler/interpreter."
+
+---
+
+# What can we learn from this?
+
+---
+
+# Finding 
+
+^ So, our first finding...
+
+---
+
+# Finding 
+## Everyone mostly agrees on what software engineering, and software architecture means.
+
+^ Everyone mostly agrees on what software engineering, and software architecture means. Most of the definitions we got are pretty consistent with what people running events, and talking about it, seem to think it is.
+
+---
+
+# Finding 
+## Everyone mostly agrees on what software engineering, and software architecture means.
+## This is probably good ✅
+
+^ This is probably good.
+
+---
+
+# Finding
+
+^ Our next finding here, which logically follows the first...
+
+---
+
+# Finding
+## Data Scientists know what Software Architecture is.
+
+^ ...is that Data Scientists, do, in fact, definitely know what Software Architecture is.
+
+---
+
+# Finding
+## Data Scientists know what Software Architecture is.
+## This is also probably good ✅
+
+^ This is also probably good.
+
+---
+
+# Is Software Architecture important to you? Is it part of your job?
+
+^ Next up, let's look at whether people find SA important, and whether they feel like it's part of their job.
+
+---
+
+# Is Software Architecture important to you? Is it part of your job?
+# **Data Scientist**
+
+---
+
+# Is Software Architecture important to you? Is it part of your job?
+# **Data Scientist**
+
+> "No. I don't have time for it."
+
+---
+
+# Is Software Architecture important to you? Is it part of your job?
+# **Data Scientist**
+
+> "Nope. Too busy to think about it, and my job relies on getting data into the shape it needs to be to think too much about a clever architecture."
+
+---
+
+# Is Software Architecture important to you? Is it part of your job?
+# **Data Scientist**
+
+> "Nope. Too busy to think about it, and my job relies on getting data into the shape it needs to be to think too much about a clever architecture."
+
+---
+
+# Is Software Architecture important to you? Is it part of your job?
+# **Data Scientist**
+
+> "Yes, it's very important. But I don't have the organisational support to 'practice' it."
+
+---
+
+# Is Software Architecture important to you? Is it part of your job?
+# **Data Scientist**
+
+> "Incredibly important to me, but I'm not given the time or resources to make it part of my work."
+
+---
+
+# Is Software Architecture important to you? Is it part of your job?
+# **Data Scientist**
+
+> "I wish it could be but I don't get the space, resources or time to make it possible."
+
+---
+
+# Is Software Architecture important to you? Is it part of your job?
+# **Software Engineer**
+
+
+---
+
+# Is Software Architecture important to you? Is it part of your job?
+# **Software Engineer**
+
+> "I'm told it should be important to me, but I'm rarely given the support to make it part of my work."
+
+
+---
+
+# Is Software Architecture important to you? Is it part of your job?
+# **Software Engineer**
+
+> "It's very important. I don't have time for it though."
+
+---
+
+# Is Software Architecture important to you? Is it part of your job?
+# **Software Engineer**
+
+> "Incredibly important, but my work is more important."
+
+---
+
+# Is Software Architecture important to you? Is it part of your job?
+# **Software Architect**
+
+---
+
+# Is Software Architecture important to you? Is it part of your job?
+# **Software Architect**
+
+> "It's so so important that they named my role after it! It's my primary responsibility."
+
+---
+
+# Is Software Architecture important to you? Is it part of your job?
+# **Software Architect**
+
+> "Yes, very important. I'm doing it day to day, when I know what it is."
+
+---
+
+# Is Software Architecture important to you? Is it part of your job?
+# **Software Architect**
+
+> "Yes, super important but I don't get enough time to do, and am often expected to do other things."
+
+---
+
+# What can we learn from this?
+
+---
+
+# Finding 
+
+^ So, our first finding here...
+
+---
+
+# Finding 
+## Data Scientists find Software Architecture important.
+
+---
+
+# Finding 
+## Data Scientists find Software Architecture important.
+## But don't get time to practice it.
+
+---
+
+# Finding 
+## Software Engineers also find Software Architecture important.
+
+^ Next... 
+
+---
+
+# Finding 
+## Software Engineers also find Software Architecture important.
+## But also don't get time to practice it.
+
+^ But also don't get time...
+
+---
+
+# Finding 
+## Software Architects... are fine.
+
+^ Also, software architects... they think it's important, and they're mostly busy doing it.
+
+---
+
+# Does what you do lead to tech debt? What is tech debt?
+
+---
+
+# Does what you do lead to tech debt? What is tech debt?
+# **Data Scientist**
+
+---
+
+# Does what you do lead to tech debt? What is tech debt?
+# **Data Scientist**
+
+> "Tech debt is anything that ends up being a bad choice. Everything I do generates some kind of tech debt."
+
+---
+
+# Does what you do lead to tech debt? What is tech debt?
+# **Data Scientist**
+
+> "Tech debt is a consequence of the way I have to work with data. I manipulate and massage data with pipelines of tools. They're not always designed to work together."
+
+---
+
+# Does what you do lead to tech debt? What is tech debt?
+# **Data Scientist**
+
+> "Almost everything I do has to be unpicked and rebuilt per-problem I'm trying to solve, or per-thing I'm trying to investigate."
+
+---
+
+# Does what you do lead to tech debt? What is tech debt?
+# **Software Engineer**
+
+---
+
+# Does what you do lead to tech debt? What is tech debt?
+# **Software Engineer**
+
+---
+
+# Does what you do lead to tech debt? What is tech debt?
+# **Software Architect**
+
+---
+
+# Does what you do lead to tech debt? What is tech debt?
+# **Software Architect**
+
+---
+
 # Do you write lots of 'little scripts' or do you 'architect a solution'? Or do you do something else?
 
 ---
