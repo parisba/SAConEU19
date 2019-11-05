@@ -202,27 +202,39 @@ TODO EXPLAIN CODING ETC.
 * Do you work with 'software architects'?
 * Are you a 'software architect'?
 
----
-
-We both have a lot of experience in qualitative research. So this talk takes that approach, mostly. And we'll touch on the implications of what we've found.
+^ We both have a lot of experience in qualitative research. So this talk takes that approach, mostly. And we'll touch on the implications of what we've found.
 
 ---
 
 # Agenda
 
-* answer the questions
-* discuss what it all means
+* showcase the answers to the tentpole questions
+    * discuss what it all means
 * next steps
+
+^ So, here's what we're going to do in this session.
 
 ---
 
-We'll leave time for your questions at the end.
+# Questions at the end, please
+
+^ We'll leave time for your questions at the end.
+
+---
+
+# Preliminary, exploratory
+
+^ This session, and the research we did is going to keep going.
 
 ---
 
 # Participation
 
-![inline 100%](graph_participants.png)
+
+
+---
+
+![inline](graph_participants.png)
 
 ^ When we performed our preliminary analysis to give this talk, we'd have 470 respondents. This is an excellent response rate.  "Data Science", "Software Engineering", "Software Architecture", "Other".
 
