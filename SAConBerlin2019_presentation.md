@@ -170,38 +170,36 @@ Diagram by Steven Geringer from IBM.
 
 ---
 
-Conversations ("semi-structured interviews")
+TODO EXPLAIN CODING ETC.
 
 ---
 
-Textual analysis of data-science writings
+# So what did we find?
+
+^ It's very preliminary, but it's been showing some interesting directions.
 
 ---
 
-Textual analysis of software architecture writings
+# Today's talk
+## Some preliminary findings.
+
+^ So, our talk today is some of our preliminary findings on this.
 
 ---
 
-It's very preliminary, but it's been showing some interesting directions.
+# Tentpole questions
+
+^ There's a few tentpole questions that we're going to structure this around.
 
 ---
 
-So, our talk today is some of our preliminary findings on this.
+# Tentpole questions
 
----
-
-There's a few tentpole questions that we're going to structure this around.
-
----
-
-# Questions
-
-* What does software architecture mean when you're not a 'software engineer' or 'software architect'?
 * What does 'software architecture' mean to you?
 * What does 'software engineering' mean to you?
 * What does 'tech debt' mean to you?
-* Do you write lots of 'little scripts' or do you 'architect a solution'? Or do you do something else?
-* Do you work with 'software architects' (either by title, or by what you think that means in terms of what they do?)
+* Do you write 'little scripts' or do you 'architect a solution'? Do you do something else?
+* Do you work with 'software architects'?
 * Are you a 'software architect'?
 
 ---
