@@ -495,6 +495,28 @@ TODO EXPLAIN CODING ETC.
 
 ---
 
+# What does 'software engineering' mean?
+# **Software Architect**
+
+> "Evolutionary capabilities for the technology world."
+
+---
+
+# What does 'software engineering' mean?
+# **Software Architect**
+
+> "Creating something that doesn't degrade over time."
+
+---
+
+# What does 'software engineering' mean?
+# **Software Architect**
+
+
+> "I've heard it called 'stuff that's hard to change later'. I like that definition."
+
+---
+
 # What can we learn from this?
 
 ---
@@ -724,20 +746,58 @@ TODO EXPLAIN CODING ETC.
 # Does what you do lead to tech debt? What is tech debt?
 # **Software Engineer**
 
+> "Tech debt is everything I do that isn't planned."
+
 ---
 
 # Does what you do lead to tech debt? What is tech debt?
 # **Software Engineer**
 
----
-
-# Does what you do lead to tech debt? What is tech debt?
-# **Software Architect**
+> "Anything we don't plan properly leads to tech debt."
 
 ---
 
 # Does what you do lead to tech debt? What is tech debt?
 # **Software Architect**
+
+> "Tech debt is when I don't do my job properly."
+
+---
+
+# Does what you do lead to tech debt? What is tech debt?
+# **Software Architect**
+
+> "If there is tech debt in my team it means I didn't do my job."
+
+---
+
+# Does what you do lead to tech debt? What is tech debt?
+# **Software Architect**
+
+> "If there is tech debt in my team it means I didn't do my job."
+
+---
+
+# Finding 
+
+^ So, our first finding here...
+
+---
+
+
+# Finding 
+## Everyone generally agrees on tech debt being bad.
+
+
+^ ?
+
+---
+
+# Finding 
+## Everyone generally agrees on tech debt being bad.
+## ... but nobody really agrees on what tech debt is.
+
+^ ?
 
 ---
 
