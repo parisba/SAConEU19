@@ -126,7 +126,27 @@ TODO TODO TODO GAP TO FILL
 
 ---
 
-Surveys
+# Methodology
+
+---
+
+# Methodology
+
+- Surveys
+- Semi-structured Interviews
+- Textual analysis
+
+---
+
+# Methodology
+# Analysis
+
+- Coding
+- Grounded-theory inspired approaches
+
+---
+
+# Coding?
 
 ---
 
@@ -190,11 +210,60 @@ We'll leave time for your questions at the end.
 
 ---
 
+# Coding Results
+
+---
+
+
+---
+
 # What does 'software architecture' mean to you?
 
 ---
 
-TODO
+
+# What does 'software architecture' mean to you?
+# Data Scientist
+
+> "Software architecture is a design created as a solution to a relatively large and complex software engineering problem."
+
+> "Software architecture is the result of breaking down and modularising a large, inter-connected problem into a (hopefully) rational, elegant, and understandable set of interacting components."
+
+---
+
+# What does 'software architecture' mean to you?
+# Software Engineer
+
+> "Planning the building of software, factoring in requirements, limitations, audience, and developer experience. Designing to be modular, intelligent, and reusable."
+
+> "Properly designed software!"
+
+> "Properly designed software, rather than a big pile of spaghetti encased in mud."
+
+> "Heavy sigh."
+
+> "High level design, and decider or general toolset and technical direction."
+
+> "The collection of paradigms, data structures, methodologies, and high-level design used to build a given particular piece of software." 
+
+---
+
+# What does 'software architecture' mean to you?
+# Software Architect
+
+> "The blueprint of future proofed, secure, progressively enhanced, decoupled, and perfectly integrated code."
+
+> "3tier/MVC/Micro services/etc"
+
+> "Managing software engineers."
+
+
+---
+
+# What does 'software architecture' mean to you?
+# Other
+
+> "Building software that serves its purpose."
 
 ---
 
