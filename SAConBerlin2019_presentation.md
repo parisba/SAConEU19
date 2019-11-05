@@ -160,9 +160,13 @@ Diagram by Steven Geringer from IBM.
 - Coding
 - Grounded-theory inspired approaches
 
+^ Analysis was performed using coding, and a variety of thematic analysis and grounded-theory inspired approaches.
+
 ---
 
 # Coding?
+
+^ When talking to people who aren't regularly practising Qualitative Research, we've recently had to make a few asides to explain Coding.
 
 ---
 
