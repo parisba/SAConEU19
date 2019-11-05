@@ -105,7 +105,7 @@ You’ll find out if architecture matters when you’re building a “little scr
 
 ![inline](paris.png)
 
-^ PARIS: I'm a researcher, i have a PhD in Computer Science, and I specialise in Qualitative Research into how and why people are behaving around, and with, technology.
+^ PARIS: We both have a research background. I have a PhD in Computer Science, and I specialise in Qualitative Research into how and why people are behaving around, and with, technology.
 
 ---
 
@@ -115,13 +115,18 @@ You’ll find out if architecture matters when you’re building a “little scr
 
 ---
 
+> Data Scientist: The Sexiest Job of the 21st Century
+-- https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century
 
-This included a few things. We'll come back to that.
+^ Data Science, starting about 8-10 years ago, starting to become the hottest thing in technology. 
 
 ---
 
-> Data Scientist: The Sexiest Job of the 21st Century
--- https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century
+TODO
+
+
+^ And we started to wonder: Does Data Science, and the associated domains of machine learning, and so on, care about things that Software Architects care about?
+
 
 ---
 
@@ -129,36 +134,28 @@ This included a few things. We'll come back to that.
 
 Diagram by Steven Geringer from IBM.
 
----
-
-^ Having basic (or even advanced) programming skills is key to put your end to end experiment together, however it does not mean that you have created an application that is production ready. Unless you have come into Data Science and Machine Learning (ML) from an IT background and have tangible experience into building enterprise, distributed, solid systems, your Jupyter notebook does not qualify as a great piece of software and sadly does not make you a Software Engineer!
+^ People have thought about this before.
 
 
 ---
 
-^ What you have built is a great prototype of a predictive product, but you still have to push it through the engineering roadmap. What you need is a team of professional Software Engineers by your side to take your (disposable) proof of concept and turn it into a performant, reliable, loosely coupled and scalable system!
+# Methodology | Qualitative
 
-
----
-
-TODO TODO TODO GAP TO FILL
+^ Our methodology was a fairly conventional qualitative approach.
 
 ---
 
-# Methodology
+# Methodology | Qualitative
 
----
-
-# Methodology
-
-- Surveys
+- Surveys with free-form responses
 - Semi-structured Interviews
 - Textual analysis
 
+^ Largely ventered around surveys, but also a couple of informal interviews with people. We also included a textual analysis of a many software architecture and data science writings, for interest's sake.
+
 ---
 
-# Methodology
-# Analysis
+# Methodology | Qualitative | Analysis
 
 - Coding
 - Grounded-theory inspired approaches
@@ -376,3 +373,10 @@ TODO
 
 
 What you have built is a great prototype of a predictive product, but you still have to push it through the engineering roadmap. What you need is a team of professional Software Engineers by your side to take your (disposable) proof of concept and turn it into a performant, reliable, loosely coupled and scalable system!
+
+^ Having basic (or even advanced) programming skills is key to put your end to end experiment together, however it does not mean that you have created an application that is production ready. Unless you have come into Data Science and Machine Learning (ML) from an IT background and have tangible experience into building enterprise, distributed, solid systems, your Jupyter notebook does not qualify as a great piece of software and sadly does not make you a Software Engineer!
+
+
+---
+
+^ What you have built is a great prototype of a predictive product, but you still have to push it through the engineering roadmap. What you need is a team of professional Software Engineers by your side to take your (disposable) proof of concept and turn it into a performant, reliable, loosely coupled and scalable system!
