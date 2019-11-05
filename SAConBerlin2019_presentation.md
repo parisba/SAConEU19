@@ -21,81 +21,100 @@ You’ll find out if architecture matters when you’re building a “little scr
 
 ---
 
-👋 Hello!
+<br /><br />
+# [fit] 👋 Hello!
 
 ^ Hi everyone!
 
 ---
 
+![inline](speakers.png)
+
 ^ We're Mars, and Paris. You can tweet us, we love that.
 
 ---
+
+![inline](tasmania.png)
 
 ^ We're from Tasmania, Australia.
 
 ---
 
-# Data science, machine learning, numerical computing, etc.
+# Data science, machine learning, numerical computing...
 
 ^ We're here to talk about data science, machine learning, numerical computing, all that sort of stuff.
 
 ---
 
-This talk came about after we spoke at SA Con in New York City, in February this year.
+
+# Data science, machine learning, numerical computing...
+## Quick hacks!?
+
+^ Plus quick hacks, and how that all fits...
 
 ---
 
-We had a bunch of great conversations.
+# We spoke at SACon NYC...
+
+^ This talk came about after we spoke at SA Con in New York City, in February this year.
 
 ---
 
-We'd honestly expected SA Con to be really dry. 
+# And we had a lot of great conversations.
+
+^ And we had a lot of great conversations.
 
 ---
 
-But it wasn't. 
+# Not dry and uninspiring.
+
+^ We'd honestly expected SA Con to be really dry.  But it wasn't. 
 
 ---
 
-It was great.
+
+# It was great.
+
+^ It was great.
 
 ---
 
-It was exciting.
+# It was exciting.
+
+^ It was really exciting. We'd imagined Software Architects to be boring, unenthused, and all manner of other less than flattering things.
 
 ---
 
-We'd imagined Software Architects to be boring, unenthused, and all manner of other less than flattering things.
+# Passionate people trying to improve things.
+
+^ But we found a community of passionate people thinking and doing things to improve the technology industry as a whole.
 
 ---
 
-But we found a community of passionate people thinking and doing things to improve the technology industry as a whole.
+# Conversations ensued.
+
+^ And we had some conversations. We're often doing machine learning, or data science work. And we noticed that a lot of the things the really interesting software architects we met were doing, or discuss, sounded a bit out of the ordinary in the data science world.
 
 ---
 
-And we had some conversations. We're often doing machine learning, or data science work.
+# So we did a little bit of research.
+
+^ So we did a little bit of research.
 
 ---
 
-And we noticed that a lot of the things the really interesting software architects we met were doing, or discuss, sounded a bit out of the ordinary in the data science world.
-
----
-
-So we did a little bit of research.
-
----
-
-TODO PARIS INFO
+![inline](paris.png)
 
 ^ PARIS: I'm a researcher, i have a PhD in Computer Science, and I specialise in Qualitative Research into how and why people are behaving around, and with, technology.
 
 ---
 
-TODO MARS INFO
+![inline](mars.png)
 
 ^ MARS: I'm a ... data scientist, researcher, etc. Pretty damn amazing. (MARS FILL THIS IN)
 
 ---
+
 
 This included a few things. We'll come back to that.
 
@@ -221,53 +240,92 @@ We'll leave time for your questions at the end.
 
 ---
 
-
 # What does 'software architecture' mean to you?
-# Data Scientist
+# **Data Scientist**
 
 > "Software architecture is a design created as a solution to a relatively large and complex software engineering problem."
+
+---
+
+# What does 'software architecture' mean to you?
+# **Data Scientist**
 
 > "Software architecture is the result of breaking down and modularising a large, inter-connected problem into a (hopefully) rational, elegant, and understandable set of interacting components."
 
 ---
 
 # What does 'software architecture' mean to you?
-# Software Engineer
+# **Software Engineer**
 
 > "Planning the building of software, factoring in requirements, limitations, audience, and developer experience. Designing to be modular, intelligent, and reusable."
 
+---
+# What does 'software architecture' mean to you?
+# **Software Engineer**
+
 > "Properly designed software!"
+
+---
+
+# What does 'software architecture' mean to you?
+# **Software Engineer**
 
 > "Properly designed software, rather than a big pile of spaghetti encased in mud."
 
+---
+
+# What does 'software architecture' mean to you?
+# **Software Engineer**
+
 > "Heavy sigh."
 
+---
+
+# What does 'software architecture' mean to you?
+# **Software Engineer**
+
 > "High level design, and decider or general toolset and technical direction."
+
+---
+
+# What does 'software architecture' mean to you?
+# **Software Engineer**
 
 > "The collection of paradigms, data structures, methodologies, and high-level design used to build a given particular piece of software." 
 
 ---
 
 # What does 'software architecture' mean to you?
-# Software Architect
+# **Software Architect**
 
 > "The blueprint of future proofed, secure, progressively enhanced, decoupled, and perfectly integrated code."
-
-> "3tier/MVC/Micro services/etc"
-
-> "Managing software engineers."
-
 
 ---
 
 # What does 'software architecture' mean to you?
-# Other
+# **Software Architect**
+
+> "3tier/MVC/Micro services/etc"
+
+---
+
+# What does 'software architecture' mean to you?
+# **Software Architect**
+
+> "Managing software engineers."
+
+---
+
+# What does 'software architecture' mean to you?
+# **Other**
 
 > "Building software that serves its purpose."
 
 ---
 
 # What does 'software engineering' mean to you?
+
+TODO TODO TODO
 
 ---
 
