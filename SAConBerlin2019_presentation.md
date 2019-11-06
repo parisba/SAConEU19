@@ -172,13 +172,30 @@ Diagram by Steven Geringer from IBM.
 
 ![](coding.jpg)
 
-^ MARS:
+^ MARS: Coding kind of looks like this.
 
 ---
 
 ![](coding2.jpg)
 
-^ PARIS: 
+^ PARIS: And this.
+
+---
+
+# Coding
+
+## Identify common words, phrases.
+
+^ MARS: You identify common words and phrases.
+
+---
+
+# Coding
+
+## Identify common words, phrases.
+## Build into themes, and codes.
+
+^ PARIS: And then filter those into themes, or codes.
 
 ---
 
@@ -216,7 +233,7 @@ Diagram by Steven Geringer from IBM.
 * Do you work with 'software architects'?
 * Are you a 'software architect'?
 
-^ MARS: We both have a lot of experience in qualitative research. So this talk takes that approach, mostly. And we'll touch on the implications of what we've found.
+^ MARS: We both have a lot of experience in qualitative research. So this talk takes that approach, mostly. And we'll touch on the implications of what we've found. We formed the survey around a bunch of tentpole questions, like these.
 
 ---
 
@@ -251,7 +268,22 @@ Diagram by Steven Geringer from IBM.
 
 # Huge response!
 
-^ PARIS: We got a huge response. Truly astonishing. We were expecting maybe 100 or so people. We're nearly at 500, and it's still going.
+^ PARIS: We got a huge response. 
+
+---
+
+# Huge response!
+## 470 participants so far
+
+^ MARS: Great numbers. We were really blown away by the responses.
+
+---
+
+# Huge response!
+## 470 participants so far
+## Survey still going.
+
+^ PARIS: We were expecting maybe 100 or so people. We're nearly at 500, and it's still going.
 
 ---
 
@@ -263,7 +295,7 @@ Diagram by Steven Geringer from IBM.
 
 # Participant professions
 
-![inline](graph_participants.png)
+![inline 80%](graph_participants.png)
 
 ^ PARIS: When we performed our preliminary analysis to give this talk, we had 470 respondents. And people are still responding. This is an excellent response rate.  "Data Science", "Software Engineering", "Software Architecture", "Other".
 
@@ -1179,12 +1211,48 @@ Diagram by Steven Geringer from IBM.
 
 ---
 
+## Recommendations
+# Help your data scientists become software engineers, and software architects.
+
+> "I'm just like a software engineer, without the bit where you write tests."
+
+^ PARIS: This is a great quote, from a data scientist, that kind of illustrates this gap.
+
+---
+
+## Recommendations
+# Help your data scientists become software engineers, and software architects.
+
+> "Data science is like software engineering without code review. They review the data we generate, not our code."
+
+^ MARS: And this quote, also from a data scientist...
+
+---
+
+## Recommendations
+# Help your data scientists become software engineers, and software architects.
+
+> "I know where the data science and the data scientists fit in what we do as architects, but we don't include them in the process. We kind of only include their data or their output, not their work process."
+
+^ PARIS: And this quote, from an Architect... which illustrates this from the other side.
+
+---
+
+## Recommendations
+# Help your data scientists become software engineers, and software architects.
+# 😐
+
+---
+
+## Recommendations
+# Help your data scientists become software engineers, and software architects.
 ## What's this look like?
 
 ^ PARIS: 
 
 ---
 
+# Help your data scientists become software engineers, and software architects.
 ## What's this look like?
 # 🤷‍♀ 🤷🏻‍♂️
 
@@ -1213,14 +1281,27 @@ Diagram by Steven Geringer from IBM.
 
 ---
 
-![inline](speakers.png)
+# Research is ongoing
 
-^ MARS: Thats everything! Please tweet us your thoughts.
+^ MARS: this research is still ongoing...
+
+---
+
+# Research is ongoing
+## http://lab.to/sa_survey
+
+^ PARIS: and completing this survey would help, for future work...
 
 ---
 
 # Thanks!
 ### **Full write-up soon at** <br />https://secretlab.institute
+
+^ MARS: Thats everything! Please tweet us your thoughts.
+
+---
+
+![inline](speakers.png)
 
 ^ PARIS: 
 
