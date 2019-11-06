@@ -960,26 +960,177 @@ Diagram by Steven Geringer from IBM.
 
 ---
 
-[.background-color:#ff0000]
+<!-- [.background-color:#ff0000] -->
 
-TODO fill in the other questions here.
+# What does data science mean for software architecture?
+
+^ PARIS:
 
 ---
 
-## Findings, summarised
+# What does data science mean for software architecture?
+# **Data Scientist**
 
 ^ MARS: 
 
 ---
 
-## Findings, summarised
+# What does data science mean for software architecture?
+# **Data Scientist**
+
+> "My [data science] work means that I make scripts, I don't make software. The scripts are software but they don't follow any kind of software process."
+
+^ PARIS: 
+
+---
+
+# What does data science mean for software architecture?
+# **Data Scientist**
+
+> "I quickly hack something together based on business data needs. I don't have time to architect or design a solution. I wish I did."
+
+^ MARS: 
+
+---
+
+# What does data science mean for software architecture?
+# **Data Scientist**
+
+> "It means I don't do software architecture. Hah."
+
+^ PARIS: 
+
+---
+
+# What does data science mean for software architecture?
+# **Data Scientist**
+
+> "I'm just like a software architect, only I don't have to or have time to worry about security, scaleability, or performance."
+
+^ MARS: 
+
+---
+
+# What does data science mean for software architecture?
+# **Software Engineer**
+
+^ PARIS: 
+
+---
+
+# What does data science mean for software architecture?
+# **Software Engineer**
+
+> "It means that when I work with the data science team I have to put more effort into thinking about how my work fits with theirs."
+
+^ MARS: 
+
+---
+
+# What does data science mean for software architecture?
+# **Software Engineer**
+
+> "From what I've observed, it doesn't mean much. I don't hold that against them, though."
+
+^ PARIS: 
+
+---
+
+# What does data science mean for software architecture?
+# **Software Engineer**
+
+> "It means I have to rewrite everything they did."
+
+^ MARS: 
+
+---
+
+# What does data science mean for software architecture?
+# **Software Architect**
+
+^ PARIS: 
+
+---
+
+# What does data science mean for software architecture?
+# **Software Architect**
+
+> "It means I have to think a lot more about how the team works with data scientists."
+
+^ MARS: 
+
+---
+
+# What does data science mean for software architecture?
+# **Software Architect**
+
+> "Absolutely nothing. Data science has no time for us, and we don't pay enough attention to their needs."
+
+^ PARIS: 
+
+---
+
+# What does data science mean for software architecture?
+# **Software Architect**
+
+> "It's a domain that doesn't interact with software architecture as much as it should."
+
+^ MARS: 
+
+---
+
+## Finding
+
+^ So, what's to find from this?
+
+^ PARIS: 
+
+---
+
+## Finding
+## Again, software architecture is _important_ but not part of the job for data scientists.
+
+^ MARS: 
+
+---
+
+## Finding
+## Again, software architecture is _important_ but not part of the job for data scientists.
+## Not so great ❌
+
+^ PARIS: 
+
+---
+
+## Finding
+## Software engineers and architects recognise this.
+
+^ MARS: 
+
+---
+
+## Finding
+## Software engineers and architects recognise this.
+## This is good ✅
+
+^ PARIS: 
+
+---
+
+## Overall Findings
+
+^ MARS: 
+
+---
+
+## Overall Findings
 # Most data scientists expressed a desire to follow better software architecture and software engineering practices in what they do.
 
 ^ PARIS: 
 
 ---
 
-## Findings, summarised
+## Overall Findings
 # Software engineers also want to absorb software architecture, but it's less important to them than to data scientists.
 
 ^ MARS: 
