@@ -42,7 +42,7 @@ You’ll find out if architecture matters when you’re building a “little scr
 
 # Data science, machine learning, numerical computing...
 
-^ We're here to talk about data science, machine learning, numerical computing, all that sort of stuff.
+^ MARS: We're here to talk about data science, machine learning, numerical computing, all that sort of stuff.
 
 ---
 
@@ -62,7 +62,7 @@ You’ll find out if architecture matters when you’re building a “little scr
 
 # And we had a lot of great conversations.
 
-^ And we had a lot of great conversations.
+^ MARS: And we had a lot of great conversations.
 
 ---
 
@@ -75,7 +75,7 @@ You’ll find out if architecture matters when you’re building a “little scr
 
 # It was great.
 
-^ It was great.
+^ MARS: It was great.
 
 ---
 
@@ -87,7 +87,7 @@ You’ll find out if architecture matters when you’re building a “little scr
 
 # Passionate people trying to improve things.
 
-^ But we found a community of passionate people thinking and doing things to improve the technology industry as a whole.
+^ MARS: But we found a community of passionate people thinking and doing things to improve the technology industry as a whole.
 
 ---
 
@@ -99,7 +99,7 @@ You’ll find out if architecture matters when you’re building a “little scr
 
 # So we did a little bit of research.
 
-^ So we did a little bit of research.
+^ MARS: So we did a little bit of research.
 
 ---
 
@@ -125,7 +125,7 @@ You’ll find out if architecture matters when you’re building a “little scr
 # Do data scientists care about software architecture?
 
 
-^ And we started to wonder: Does Data Science, and the associated domains of machine learning, and so on, care about things that Software Architects care about?
+^ MARS: And we started to wonder: Does Data Science, and the associated domains of machine learning, and so on, care about things that Software Architects care about?
 
 
 ---
@@ -141,7 +141,7 @@ Diagram by Steven Geringer from IBM.
 
 # Methodology | Qualitative
 
-^ Our methodology was a fairly conventional qualitative approach.
+^ MARS: Our methodology was a fairly conventional qualitative approach.
 
 ---
 
@@ -160,7 +160,7 @@ Diagram by Steven Geringer from IBM.
 - Coding
 - Grounded-theory inspired approaches
 
-^ Analysis was performed using coding, and a variety of thematic analysis and grounded-theory inspired approaches.
+^ MARS: Analysis was performed using coding, and a variety of thematic analysis and grounded-theory inspired approaches.
 
 ---
 
@@ -172,15 +172,19 @@ Diagram by Steven Geringer from IBM.
 
 ![](coding.jpg)
 
+^ MARS:
+
 ---
 
 ![](coding2.jpg)
+
+^ PARIS: 
 
 ---
 
 # If you are here for numbers, you might be disappointed.
 
-^ This is qualitative research.
+^ MARS: This is qualitative research.
 
 ---
 
@@ -193,7 +197,7 @@ Diagram by Steven Geringer from IBM.
 # Today's talk
 ## Some preliminary findings.
 
-^ So, our talk today is some of our preliminary findings on this.
+^ MARS: So, our talk today is some of our preliminary findings on this.
 
 ---
 
@@ -212,7 +216,7 @@ Diagram by Steven Geringer from IBM.
 * Do you work with 'software architects'?
 * Are you a 'software architect'?
 
-^ We both have a lot of experience in qualitative research. So this talk takes that approach, mostly. And we'll touch on the implications of what we've found.
+^ MARS: We both have a lot of experience in qualitative research. So this talk takes that approach, mostly. And we'll touch on the implications of what we've found.
 
 ---
 
@@ -229,7 +233,7 @@ Diagram by Steven Geringer from IBM.
 
 # Questions at the end, please
 
-^ We'll leave time for your questions at the end.
+^ MARS: We'll leave time for your questions at the end.
 
 ---
 
@@ -241,7 +245,7 @@ Diagram by Steven Geringer from IBM.
 
 # Survey Participation
 
-^ OK, so the primary means of data collection we used was a collection of free-form surveys. By free-form, we mean we asked for text answers, of as long as people felt like giving us.
+^ MARS: OK, so the primary means of data collection we used was a collection of free-form surveys. By free-form, we mean we asked for text answers, of as long as people felt like giving us.
 
 ---
 
@@ -253,7 +257,7 @@ Diagram by Steven Geringer from IBM.
 
 # Participant professions
 
-^ We asked participants what they did. At the point we did some analysis to prepare for giving our preliminary findings in this talk, our breakdown was as follows.
+^ MARS: We asked participants what they did. At the point we did some analysis to prepare for giving our preliminary findings in this talk, our breakdown was as follows.
 
 ---
 
@@ -267,6 +271,8 @@ Diagram by Steven Geringer from IBM.
 
 # Coding Results
 
+^ MARS: So let's look at what the coding resulted in..
+
 ---
 
 # What does 'software architecture' mean?
@@ -278,7 +284,7 @@ Diagram by Steven Geringer from IBM.
 # What does 'software architecture' mean?
 # **Data Scientist**
 
-^ First, the people who said they were mostly data scientists. 
+^ MARS: First, the people who said they were mostly data scientists. 
 
 ---
 
@@ -296,7 +302,7 @@ Diagram by Steven Geringer from IBM.
 
 > "Software architecture is the result of breaking down and modularising a large, inter-connected problem into a (hopefully) rational, elegant, and understandable set of interacting components."
 
-^ We got a few slightly more descriptive ones, like this, as well.
+^ MARS: We got a few slightly more descriptive ones, like this, as well.
 
 ---
 
@@ -312,7 +318,7 @@ Diagram by Steven Geringer from IBM.
 
 > "Planning the building of software, factoring in requirements, limitations, audience, and developer experience. Designing to be modular, intelligent, and reusable."
 
-^ They got a little more expressive with their description of software architecture. Trying to unpack its pieces. We got a lot responses like this from the software engineering crowd. 
+^ MARS: They got a little more expressive with their description of software architecture. Trying to unpack its pieces. We got a lot responses like this from the software engineering crowd. 
 
 ---
 # What does 'software architecture' mean?
@@ -329,7 +335,7 @@ Diagram by Steven Geringer from IBM.
 
 > "Properly designed software, rather than a big pile of spaghetti encased in mud."
 
-^ And like this one. Lots and lots of smartass comments from the software engineering crowd.
+^ MARS: And like this one. Lots and lots of smartass comments from the software engineering crowd.
 
 ---
 
@@ -347,7 +353,7 @@ Diagram by Steven Geringer from IBM.
 
 > "High level design, and decider or general toolset and technical direction."
 
-^ But we also got a lot of thoughtful comments, that largely uncontroversial to anyone at this event, I think?
+^ MARS: But we also got a lot of thoughtful comments, that largely uncontroversial to anyone at this event, I think?
 
 ---
 
@@ -364,7 +370,7 @@ Diagram by Steven Geringer from IBM.
 # What does 'software architecture' mean?
 # **Software Architect**
 
-^ Next up, those who identified as working in software architecture. Theoretically these people are the same as the attendees at this event.
+^ MARS: Next up, those who identified as working in software architecture. Theoretically these people are the same as the attendees at this event.
 
 ---
 
@@ -382,7 +388,7 @@ Diagram by Steven Geringer from IBM.
 
 > "3tier/MVC/Micro services/etc"
 
-^ We had a few people spit out some buzzwords. Which is fair enough, it's a fairly jargon heavy industry.
+^ MARS: We had a few people spit out some buzzwords. Which is fair enough, it's a fairly jargon heavy industry.
 
 ---
 
@@ -401,7 +407,7 @@ Diagram by Steven Geringer from IBM.
 
 > "Building software that serves its purpose."
 
-^ We also got a few responses that looked like this, which I think is reasonable. 
+^ MARS: We also got a few responses that looked like this, which I think is reasonable. 
 
 
 ---
@@ -417,7 +423,7 @@ Diagram by Steven Geringer from IBM.
 # **Data Scientist**
 
 
-^ Again, let's look at what the Data Scientist people think first.
+^ MARS: Again, let's look at what the Data Scientist people think first.
 
 ---
 
@@ -435,6 +441,8 @@ Diagram by Steven Geringer from IBM.
 
 > "I mostly tend to differentiate between 'software engineering' and 'computer programming' by the scope and level of professional care involved."
 
+^ MARS: 
+
 ---
 
 
@@ -449,6 +457,8 @@ Diagram by Steven Geringer from IBM.
 # **Data Scientist**
 
 > "Developing non-trivial software is kind of fractal in nature: as you zoom in, the level of complexity doesn't always decrease."
+
+^ MARS: 
 
 ---
 
@@ -465,6 +475,8 @@ Diagram by Steven Geringer from IBM.
 
 > "A dream that we're good at our jobs."
 
+^ MARS: 
+
 ---
 
 # What does 'software engineering' mean?
@@ -476,6 +488,8 @@ Diagram by Steven Geringer from IBM.
 # **Software Architect**
 
 > "Nothing. It means nothing."
+
+^ MARS: 
 
 ---
 
@@ -491,6 +505,8 @@ Diagram by Steven Geringer from IBM.
 
 > "Fine tuning the software you built."
 
+^ MARS: 
+
 ---
 
 # What does 'software engineering' mean?
@@ -504,6 +520,8 @@ Diagram by Steven Geringer from IBM.
 # **Software Architect**
 
 > "Evolutionary capabilities for the technology world."
+
+^ MARS: 
 
 ---
 
@@ -520,6 +538,8 @@ Diagram by Steven Geringer from IBM.
 
 > "I've heard it called 'stuff that's hard to change later'. I like that definition."
 
+^ MARS: 
+
 ---
 
 # What can we learn from this?
@@ -529,6 +549,8 @@ Diagram by Steven Geringer from IBM.
 # Finding 
 
 ^ So, our first finding...
+
+^ MARS: 
 
 ---
 
@@ -543,7 +565,7 @@ Diagram by Steven Geringer from IBM.
 ## Everyone mostly agrees on what software engineering, and software architecture means.
 ## This is probably good ✅
 
-^ This is probably good.
+^ MARS: This is probably good.
 
 ---
 
@@ -556,7 +578,7 @@ Diagram by Steven Geringer from IBM.
 # Finding
 ## Data Scientists know what Software Architecture is.
 
-^ ...is that Data Scientists, do, in fact, definitely know what Software Architecture is.
+^ MARS: ...is that Data Scientists, do, in fact, definitely know what Software Architecture is.
 
 ---
 
@@ -570,7 +592,7 @@ Diagram by Steven Geringer from IBM.
 
 # Is Software Architecture important to you? Is it part of your job?
 
-^ Next up, let's look at whether people find SA important, and whether they feel like it's part of their job.
+^ MARS: Next up, let's look at whether people find SA important, and whether they feel like it's part of their job.
 
 ---
 
@@ -584,12 +606,7 @@ Diagram by Steven Geringer from IBM.
 
 > "No. I don't have time for it."
 
----
-
-# Is Software Architecture important to you? Is it part of your job?
-# **Data Scientist**
-
-> "Nope. Too busy to think about it, and my job relies on getting data into the shape it needs to be to think too much about a clever architecture."
+^ MARS: 
 
 ---
 
@@ -597,6 +614,15 @@ Diagram by Steven Geringer from IBM.
 # **Data Scientist**
 
 > "Nope. Too busy to think about it, and my job relies on getting data into the shape it needs to be to think too much about a clever architecture."
+
+---
+
+# Is Software Architecture important to you? Is it part of your job?
+# **Data Scientist**
+
+> "Nope. Too busy to think about it, and my job relies on getting data into the shape it needs to be to think too much about a clever architecture."
+
+^ MARS: 
 
 ---
 
@@ -612,6 +638,8 @@ Diagram by Steven Geringer from IBM.
 
 > "Incredibly important to me, but I'm not given the time or resources to make it part of my work."
 
+^ MARS: 
+
 ---
 
 # Is Software Architecture important to you? Is it part of your job?
@@ -624,6 +652,7 @@ Diagram by Steven Geringer from IBM.
 # Is Software Architecture important to you? Is it part of your job?
 # **Software Engineer**
 
+^ MARS: 
 
 ---
 
@@ -632,13 +661,14 @@ Diagram by Steven Geringer from IBM.
 
 > "I'm told it should be important to me, but I'm rarely given the support to make it part of my work."
 
-
 ---
 
 # Is Software Architecture important to you? Is it part of your job?
 # **Software Engineer**
 
 > "It's very important. I don't have time for it though."
+
+^ MARS: 
 
 ---
 
@@ -649,8 +679,11 @@ Diagram by Steven Geringer from IBM.
 
 ---
 
+
 # Is Software Architecture important to you? Is it part of your job?
 # **Software Architect**
+
+^ MARS: 
 
 ---
 
@@ -666,6 +699,8 @@ Diagram by Steven Geringer from IBM.
 
 > "Yes, very important. I'm doing it day to day, when I know what it is."
 
+^ MARS: 
+
 ---
 
 # Is Software Architecture important to you? Is it part of your job?
@@ -677,6 +712,9 @@ Diagram by Steven Geringer from IBM.
 
 # What can we learn from this?
 
+^ MARS: 
+
+
 ---
 
 # Finding 
@@ -687,6 +725,8 @@ Diagram by Steven Geringer from IBM.
 
 # Finding 
 ## Data Scientists find Software Architecture important.
+
+^ MARS: 
 
 ---
 
