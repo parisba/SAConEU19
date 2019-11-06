@@ -1,4 +1,4 @@
- footer: @TheMartianLife | @parisba | #OReillySACon
+footer: @TheMartianLife | @parisba | #OReillySACon
 theme: Business Class
 slidenumbers: true
 
@@ -15,28 +15,28 @@ You’ll find out if architecture matters when you’re building a “little scr
 # Does software architecture matter...
 # ...in a world of 'quick hacks'?
 
-## Mars Geldard & Paris Buttfield-Addison
+### Mars Geldard & Paris Buttfield-Addison
 
-^ Welcome!
+^ PARIS: Welcome!
 
 ---
 
 <br /><br />
 # [fit] 👋 Hello!
 
-^ Hi everyone!
+^ PARIS: Hi everyone!
 
 ---
 
 ![inline](speakers.png)
 
-^ We're Mars, and Paris. You can tweet us, we love that.
+^ MARS: We're Mars, and Paris. You can tweet us, we love that.
 
 ---
 
 ![inline](tasmania.png)
 
-^ We're from Tasmania, Australia.
+^ PARIS: We're from Tasmania, Australia.
 
 ---
 
@@ -50,13 +50,13 @@ You’ll find out if architecture matters when you’re building a “little scr
 # Data science, machine learning, numerical computing...
 ## Quick hacks!?
 
-^ Plus quick hacks, and how that all fits...
+^ PARIS: Plus quick hacks, and how that all fits...
 
 ---
 
 # We spoke at SACon NYC...
 
-^ This talk came about after we spoke at SA Con in New York City, in February this year.
+^ PARIS: This talk came about after we spoke at SA Con in New York City, in February this year.
 
 ---
 
@@ -122,7 +122,7 @@ You’ll find out if architecture matters when you’re building a “little scr
 
 ---
 
-TODO
+# Do data scientists care about software architecture?
 
 
 ^ And we started to wonder: Does Data Science, and the associated domains of machine learning, and so on, care about things that Software Architects care about?
@@ -170,7 +170,11 @@ Diagram by Steven Geringer from IBM.
 
 ---
 
-TODO EXPLAIN CODING ETC.
+![](coding.jpg)
+
+---
+
+![](coding2.jpg)
 
 ---
 
@@ -212,11 +216,12 @@ TODO EXPLAIN CODING ETC.
 
 ---
 
-# Agenda
+# Agenda 🧐
 
-* showcase the answers to the tentpole questions
-    * discuss what it all means
-* next steps
+* discuss participation
+* discuss results
+* discuss what it all means
+* next steps/recommendations
 
 ^ So, here's what we're going to do in this session.
 
@@ -687,7 +692,14 @@ TODO EXPLAIN CODING ETC.
 
 # Finding 
 ## Data Scientists find Software Architecture important.
+## This is good ✅
+
+---
+
+# Finding 
+## Data Scientists find Software Architecture important. ✅
 ## But don't get time to practice it.
+## This is not so good ❌
 
 ---
 
@@ -699,8 +711,15 @@ TODO EXPLAIN CODING ETC.
 ---
 
 # Finding 
-## Software Engineers also find Software Architecture important.
-## But also don't get time to practice it.
+## Software Engineers also find Software Architecture important. ✅
+
+^ Again, good.
+
+---
+
+# Finding 
+## Software Engineers also find Software Architecture important. ✅
+## But also don't get time to practice it. ❌
 
 ^ But also don't get time...
 
@@ -709,7 +728,7 @@ TODO EXPLAIN CODING ETC.
 # Finding 
 ## Software Architects... are fine.
 
-^ Also, software architects... they think it's important, and they're mostly busy doing it.
+^ Also, software architects... they think it's important, and they're mostly busy doing it. Whatever they think it is.
 
 ---
 
@@ -744,6 +763,25 @@ TODO EXPLAIN CODING ETC.
 ---
 
 # Does what you do lead to tech debt? What is tech debt?
+# **Data Scientist**
+
+> "I generate a lot. I need to create a lot of code that hasn't got time or place to be tested or document because I'm working with lots of live data. Technical debt is more like a technical payday loan for a data scientist, I think."
+
+---
+
+# Does what you do lead to tech debt? What is tech debt?
+# **Data Scientist**
+
+> "I used to be a 'software engineer'. Now I'm a data scientist. What this practically means is that I make proofs of concept that get put into production. I get to iterate faster and do more stuff, but it's bad software engineering and bad software architecture."
+
+---
+
+# Does what you do lead to tech debt? What is tech debt?
+# **Software Engineer**
+
+---
+
+# Does what you do lead to tech debt? What is tech debt?
 # **Software Engineer**
 
 > "Tech debt is everything I do that isn't planned."
@@ -754,6 +792,11 @@ TODO EXPLAIN CODING ETC.
 # **Software Engineer**
 
 > "Anything we don't plan properly leads to tech debt."
+
+---
+
+# Does what you do lead to tech debt? What is tech debt?
+# **Software Architect**
 
 ---
 
@@ -778,14 +821,14 @@ TODO EXPLAIN CODING ETC.
 
 ---
 
-# Finding 
+## Finding 
 
 ^ So, our first finding here...
 
 ---
 
 
-# Finding 
+## Finding 
 ## Everyone generally agrees on tech debt being bad.
 
 
@@ -793,7 +836,7 @@ TODO EXPLAIN CODING ETC.
 
 ---
 
-# Finding 
+## Finding 
 ## Everyone generally agrees on tech debt being bad.
 ## ... but nobody really agrees on what tech debt is.
 
@@ -801,48 +844,107 @@ TODO EXPLAIN CODING ETC.
 
 ---
 
-# Do you write lots of 'little scripts' or do you 'architect a solution'? Or do you do something else?
+[.background-color:#ff0000]
+
+TODO fill in the other questions here.
 
 ---
 
-# Findings, summarised
+## Findings, summarised
 
 ---
 
-# Architecture doesn't matter, but not because they don't care.
+## Findings, summarised
+# Most data scientists expressed a desire to follow better software architecture and software engineering practices in what they do.
 
 ---
 
-# Finding a solution is more important than finding a good solution.
+## Findings, summarised
+# Software engineers also want to absorb software architecture, but it's less important to them than to data scientists.
 
 ---
 
-# To a point.
+## Recommendations
 
 ---
 
+## Recommendations
+# **Architecture doesn't matter to data scientists, but not because they don't care.**
+
+---
+
+# **Architecture doesn't matter to data scientists, but not because they don't care.**
+# They need time and support to incorporate it.
+
+^ Finding a solution is more important than finding a good solution. Support them so that this doesn't have to be the case.
+
+---
+
+## Recommendations
+# Most data scientists are passable programmers.
+
+---
+
+## Recommendations
+# Most data scientists are passable programmers.
 # Most data scientists are not software engineers.
 
 ---
 
-# Most data scientists are passable programmers.
+## Recommendations
+# Help your data scientists become software engineers, and software architects.
 
 ---
 
-# Most data scientists are passable programmers.
-# But they're still not software engineers.
+## What's this look like?
 
 ---
 
-# We need more data scientists who are also software people.
+## What's this look like?
+# 🤷‍♀ 🤷🏻‍♂️
 
 ---
 
-# But we also need more software people who embrace the nimble nature of building data science tools and pipelines.
+## Recommendations
+# We need more data scientists who are also _software_ people.
+
+---
+
+## Recommendations
+# This is not _one size fits all_.
+
+---
+
+## Recommendations
+# We also need more _software people_ who embrace the nimble nature of data science.
+
+---
+
+![inline](speakers.png)
+
+^ Thats everything! Please tweet us your thoughts.
+
+---
+
+# Thanks!
+### **Full write-up soon at** <br />https://secretlab.institute
+
+---
+
+# Thanks!
+### **Full write-up soon at** <br />https://secretlab.institute
+### "Meet the Experts" at 3PM today (Expo Hall)
 
 ---
 
 
+# Thanks!
+### **Full write-up soon at** <br />https://secretlab.institute
+### "Meet the Experts" at 3PM today (Expo Hall)
+### Book Signing at 5:30 PM today (Expo Hall)
+
+
+<!-- 
 What you have built is a great prototype of a predictive product, but you still have to push it through the engineering roadmap. What you need is a team of professional Software Engineers by your side to take your (disposable) proof of concept and turn it into a performant, reliable, loosely coupled and scalable system!
 
 ^ Having basic (or even advanced) programming skills is key to put your end to end experiment together, however it does not mean that you have created an application that is production ready. Unless you have come into Data Science and Machine Learning (ML) from an IT background and have tangible experience into building enterprise, distributed, solid systems, your Jupyter notebook does not qualify as a great piece of software and sadly does not make you a Software Engineer!
@@ -850,4 +952,4 @@ What you have built is a great prototype of a predictive product, but you still 
 
 ---
 
-^ What you have built is a great prototype of a predictive product, but you still have to push it through the engineering roadmap. What you need is a team of professional Software Engineers by your side to take your (disposable) proof of concept and turn it into a performant, reliable, loosely coupled and scalable system!
+^ What you have built is a great prototype of a predictive product, but you still have to push it through the engineering roadmap. What you need is a team of professional Software Engineers by your side to take your (disposable) proof of concept and turn it into a performant, reliable, loosely coupled and scalable system! -->
