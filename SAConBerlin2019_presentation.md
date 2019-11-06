@@ -443,6 +443,16 @@ Diagram by Steven Geringer from IBM.
 
 ---
 
+# What does 'software architecture' mean?
+# **Software Architect**
+
+
+> "I've heard it called 'stuff that's hard to change later'. I like that definition."
+
+^ MARS: Things like this cropped up too..
+
+---
+
 # What does 'software engineering' mean?
 
 ^ Next up, let's look at what people think Software Engineering means.
@@ -578,16 +588,6 @@ Diagram by Steven Geringer from IBM.
 
 ---
 
-# What does 'software engineering' mean?
-# **Software Architect**
-
-
-> "I've heard it called 'stuff that's hard to change later'. I like that definition."
-
-^ MARS: 
-
----
-
 # What can we learn from this?
 
 ^ PARIS: 
@@ -673,14 +673,6 @@ Diagram by Steven Geringer from IBM.
 
 ^ PARIS: 
 
----
-
-# Is Software Architecture important to you? Is it part of your job?
-# **Data Scientist**
-
-> "Nope. Too busy to think about it, and my job relies on getting data into the shape it needs to be to think too much about a clever architecture."
-
-^ MARS: 
 
 ---
 
@@ -956,15 +948,6 @@ Diagram by Steven Geringer from IBM.
 
 ---
 
-# Does what you do lead to tech debt? What is tech debt?
-# **Software Architect**
-
-> "If there is tech debt in my team it means I didn't do my job."
-
-^ PARIS: 
-
----
-
 ## Finding 
 
 ^ So, our first finding here...
@@ -1211,6 +1194,15 @@ Diagram by Steven Geringer from IBM.
 
 ---
 
+
+## Recommendations
+# Help your data scientists become software engineers, and software architects.
+### ... or understand the jobs of those that are.
+
+^ MARS: Or understand the jobs of those that are! Not everyone needs every skill.
+
+---
+
 ## Recommendations
 # Help your data scientists become software engineers, and software architects.
 
@@ -1266,6 +1258,29 @@ Diagram by Steven Geringer from IBM.
 ^ PARIS: 
 
 ---
+
+## Recommendations
+# We need more data scientists who are also _software_ people.
+### ... but Mars has opinions.
+
+^ MARS: <<OPINIONS GO HERE>>
+
+---
+
+## Recommendations
+## Really, we need better integration between data science and software engineering/architecture.
+
+^ PARIS
+
+---
+## Recommendations
+## Really, we need better integration between data science and software engineering/architecture.
+### Whatever that means?
+
+^ MARS
+
+---
+
 
 ## Recommendations
 # This is not _one size fits all_.
