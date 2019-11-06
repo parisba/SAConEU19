@@ -68,7 +68,7 @@ You’ll find out if architecture matters when you’re building a “little scr
 
 # Not dry and uninspiring.
 
-^ We'd honestly expected SA Con to be really dry.  But it wasn't. 
+^ ^ PARIS: We'd honestly expected SA Con to be really dry.  But it wasn't. 
 
 ---
 
@@ -81,7 +81,7 @@ You’ll find out if architecture matters when you’re building a “little scr
 
 # It was exciting.
 
-^ It was really exciting. We'd imagined Software Architects to be boring, unenthused, and all manner of other less than flattering things.
+^ ^ PARIS: It was really exciting. We'd imagined Software Architects to be boring, unenthused, and all manner of other less than flattering things.
 
 ---
 
@@ -93,7 +93,7 @@ You’ll find out if architecture matters when you’re building a “little scr
 
 # Conversations ensued.
 
-^ And we had some conversations. We're often doing machine learning, or data science work. And we noticed that a lot of the things the really interesting software architects we met were doing, or discuss, sounded a bit out of the ordinary in the data science world.
+^ PARIS: And we had some conversations. We're often doing machine learning, or data science work. And we noticed that a lot of the things the really interesting software architects we met were doing, or discuss, sounded a bit out of the ordinary in the data science world.
 
 ---
 
@@ -118,7 +118,7 @@ You’ll find out if architecture matters when you’re building a “little scr
 > Data Scientist: The Sexiest Job of the 21st Century
 -- https://hbr.org/2012/10/data-scientist-the-sexiest-job-of-the-21st-century
 
-^ Data Science, starting about 8-10 years ago, starting to become the hottest thing in technology. 
+^ ^ PARIS: Data Science, starting about 8-10 years ago, starting to become the hottest thing in technology. 
 
 ---
 
@@ -134,7 +134,7 @@ You’ll find out if architecture matters when you’re building a “little scr
 
 Diagram by Steven Geringer from IBM.
 
-^ People have thought about this before.
+^ PARIS: People have thought about this before.
 
 
 ---
@@ -151,7 +151,7 @@ Diagram by Steven Geringer from IBM.
 - Semi-structured Interviews
 - Textual analysis
 
-^ Largely ventered around surveys, but also a couple of informal interviews with people. We also included a textual analysis of a many software architecture and data science writings, for interest's sake.
+^ ^ PARIS: Largely ventered around surveys, but also a couple of informal interviews with people. We also included a textual analysis of a many software architecture and data science writings, for interest's sake.
 
 ---
 
@@ -166,7 +166,7 @@ Diagram by Steven Geringer from IBM.
 
 # Coding?
 
-^ When talking to people who aren't regularly practising Qualitative Research, we've recently had to make a few asides to explain Coding.
+^ ^ PARIS: When talking to people who aren't regularly practising Qualitative Research, we've recently had to make a few asides to explain Coding.
 
 ---
 
@@ -190,7 +190,7 @@ Diagram by Steven Geringer from IBM.
 
 # So what did we find?
 
-^ It's very preliminary, but it's been showing some interesting directions.
+^ ^ PARIS: It's very preliminary, but it's been showing some interesting directions.
 
 ---
 
@@ -203,7 +203,7 @@ Diagram by Steven Geringer from IBM.
 
 # Tentpole questions
 
-^ There's a few tentpole questions that we're going to structure this around.
+^ PARIS: There's a few tentpole questions that we're going to structure this around.
 
 ---
 
@@ -227,7 +227,7 @@ Diagram by Steven Geringer from IBM.
 * discuss what it all means
 * next steps/recommendations
 
-^ So, here's what we're going to do in this session.
+^ ^ PARIS: So, here's what we're going to do in this session.
 
 ---
 
@@ -239,7 +239,7 @@ Diagram by Steven Geringer from IBM.
 
 # Preliminary, exploratory
 
-^ This session, and the research we did is going to keep going.
+^ ^ PARIS: This session, and the research we did is going to keep going.
 
 ---
 
@@ -251,7 +251,7 @@ Diagram by Steven Geringer from IBM.
 
 # Huge response!
 
-^ We got a huge response. Truly astonishing. We were expecting maybe 100 or so people. We're nearly at 500, and it's still going.
+^ PARIS: We got a huge response. Truly astonishing. We were expecting maybe 100 or so people. We're nearly at 500, and it's still going.
 
 ---
 
@@ -265,7 +265,7 @@ Diagram by Steven Geringer from IBM.
 
 ![inline](graph_participants.png)
 
-^ When we performed our preliminary analysis to give this talk, we had 470 respondents. And people are still responding. This is an excellent response rate.  "Data Science", "Software Engineering", "Software Architecture", "Other".
+^ PARIS: When we performed our preliminary analysis to give this talk, we had 470 respondents. And people are still responding. This is an excellent response rate.  "Data Science", "Software Engineering", "Software Architecture", "Other".
 
 ---
 
@@ -277,7 +277,7 @@ Diagram by Steven Geringer from IBM.
 
 # What does 'software architecture' mean?
 
-^ For our first set of preliminary results, let's take a look at what people think software architecture means. What's it mean to people?
+^ PARIS: For our first set of preliminary results, let's take a look at what people think software architecture means. What's it mean to people?
 
 ---
 
@@ -293,7 +293,7 @@ Diagram by Steven Geringer from IBM.
 
 > "Software architecture is a design created as a solution to a relatively large and complex software engineering problem."
 
-^ We got a lot of comments like this. Fairly straightforward, unambiguous comments on software architecture. I don't think too many folks at this conference would disagree with this, no?
+^ PARIS: We got a lot of comments like this. Fairly straightforward, unambiguous comments on software architecture. I don't think too many folks at this conference would disagree with this, no?
 
 ---
 
@@ -309,7 +309,7 @@ Diagram by Steven Geringer from IBM.
 # What does 'software architecture' mean?
 # **Software Engineer**
 
-^ People who said they were primarily Software Engineers next.. 
+^ PARIS: People who said they were primarily Software Engineers next.. 
 
 ---
 
@@ -326,7 +326,7 @@ Diagram by Steven Geringer from IBM.
 
 > "Properly designed software!"
 
-^ We also got the, to be honest, expected, smartass comments. Like this one.
+^ PARIS: We also got the, to be honest, expected, smartass comments. Like this one.
 
 ---
 
@@ -344,7 +344,7 @@ Diagram by Steven Geringer from IBM.
 
 > "Heavy sigh."
 
-^ Even comments like this, which we got, verbatim, in this exact form, 11 times, from software engineers. 
+^ PARIS: Even comments like this, which we got, verbatim, in this exact form, 11 times, from software engineers. 
 
 ---
 
@@ -362,7 +362,7 @@ Diagram by Steven Geringer from IBM.
 
 > "The collection of paradigms, data structures, methodologies, and high-level design used to build a given particular piece of software." 
 
-^ Pretty straightforward stuff.
+^ PARIS: Pretty straightforward stuff.
 
 ---
 
@@ -379,7 +379,7 @@ Diagram by Steven Geringer from IBM.
 
 > "The blueprint of future proofed, secure, progressively enhanced, decoupled, and perfectly integrated code."
 
-^ We got a lot of very thoughtful, wordy, yet generally uncontroversial responses, like this one.
+^ PARIS: We got a lot of very thoughtful, wordy, yet generally uncontroversial responses, like this one.
 
 ---
 
@@ -397,7 +397,7 @@ Diagram by Steven Geringer from IBM.
 
 > "Managing software engineers."
 
-^ A surprising number of people said that software architecture is "managing engineers". This isn't something we personally agree with, but it's probably unreasonably accurate. Even if we wouldn't like to admit it at this conference?
+^ PARIS: A surprising number of people said that software architecture is "managing engineers". This isn't something we personally agree with, but it's probably unreasonably accurate. Even if we wouldn't like to admit it at this conference?
 
 ---
 
@@ -409,19 +409,19 @@ Diagram by Steven Geringer from IBM.
 
 ^ MARS: We also got a few responses that looked like this, which I think is reasonable. 
 
-
 ---
 
 # What does 'software engineering' mean?
 
 ^ Next up, let's look at what people think Software Engineering means.
 
+^ PARIS: 
+
 ---
 
 
 # What does 'software engineering' mean?
 # **Data Scientist**
-
 
 ^ MARS: Again, let's look at what the Data Scientist people think first.
 
@@ -432,6 +432,8 @@ Diagram by Steven Geringer from IBM.
 # **Data Scientist**
 
 > "Software engineering is a principled, professional approach to creating good software architecture."
+
+^ PARIS: 
 
 ---
 
@@ -451,6 +453,8 @@ Diagram by Steven Geringer from IBM.
 
 > "Software engineering is designing and implementing components not just with the overall design/architecture in mind, but also the overarching goals of that architecture."
 
+^ PARIS: 
+
 ---
 
 # What does 'software engineering' mean?
@@ -468,6 +472,8 @@ Diagram by Steven Geringer from IBM.
 
 > "The development of software."
 
+^ PARIS: 
+
 ---
 
 # What does 'software engineering' mean?
@@ -481,6 +487,8 @@ Diagram by Steven Geringer from IBM.
 
 # What does 'software engineering' mean?
 # **Software Architect**
+
+^ PARIS: 
 
 ---
 
@@ -498,6 +506,8 @@ Diagram by Steven Geringer from IBM.
 
 > "The development and delivery of a defined software product of predicted and measurable quality to a predicted schedule."
 
+^ PARIS: 
+
 ---
 
 # What does 'software engineering' mean?
@@ -513,6 +523,8 @@ Diagram by Steven Geringer from IBM.
 # **Software Architect**
 
 > "It's at a lower level than development. Anyone can develop a website, but only engineers can build a language and compiler/interpreter."
+
+^ PARIS: 
 
 ---
 
@@ -530,6 +542,8 @@ Diagram by Steven Geringer from IBM.
 
 > "Creating something that doesn't degrade over time."
 
+^ PARIS: 
+
 ---
 
 # What does 'software engineering' mean?
@@ -543,6 +557,8 @@ Diagram by Steven Geringer from IBM.
 ---
 
 # What can we learn from this?
+
+^ PARIS: 
 
 ---
 
@@ -559,6 +575,8 @@ Diagram by Steven Geringer from IBM.
 
 ^ Everyone mostly agrees on what software engineering, and software architecture means. Most of the definitions we got are pretty consistent with what people running events, and talking about it, seem to think it is.
 
+^ PARIS: 
+
 ---
 
 # Finding 
@@ -572,6 +590,8 @@ Diagram by Steven Geringer from IBM.
 # Finding
 
 ^ Our next finding here, which logically follows the first...
+
+^ PARIS: 
 
 ---
 
@@ -588,6 +608,8 @@ Diagram by Steven Geringer from IBM.
 
 ^ This is also probably good.
 
+^ PARIS: 
+
 ---
 
 # Is Software Architecture important to you? Is it part of your job?
@@ -598,6 +620,8 @@ Diagram by Steven Geringer from IBM.
 
 # Is Software Architecture important to you? Is it part of your job?
 # **Data Scientist**
+
+^ PARIS: 
 
 ---
 
@@ -615,6 +639,8 @@ Diagram by Steven Geringer from IBM.
 
 > "Nope. Too busy to think about it, and my job relies on getting data into the shape it needs to be to think too much about a clever architecture."
 
+^ PARIS: 
+
 ---
 
 # Is Software Architecture important to you? Is it part of your job?
@@ -630,6 +656,8 @@ Diagram by Steven Geringer from IBM.
 # **Data Scientist**
 
 > "Yes, it's very important. But I don't have the organisational support to 'practice' it."
+
+^ PARIS: 
 
 ---
 
@@ -647,6 +675,8 @@ Diagram by Steven Geringer from IBM.
 
 > "I wish it could be but I don't get the space, resources or time to make it possible."
 
+^ PARIS: 
+
 ---
 
 # Is Software Architecture important to you? Is it part of your job?
@@ -660,6 +690,8 @@ Diagram by Steven Geringer from IBM.
 # **Software Engineer**
 
 > "I'm told it should be important to me, but I'm rarely given the support to make it part of my work."
+
+^ PARIS: 
 
 ---
 
@@ -677,6 +709,8 @@ Diagram by Steven Geringer from IBM.
 
 > "Incredibly important, but my work is more important."
 
+^ PARIS: 
+
 ---
 
 
@@ -691,6 +725,8 @@ Diagram by Steven Geringer from IBM.
 # **Software Architect**
 
 > "It's so so important that they named my role after it! It's my primary responsibility."
+
+^ PARIS: 
 
 ---
 
@@ -708,18 +744,21 @@ Diagram by Steven Geringer from IBM.
 
 > "Yes, super important but I don't get enough time to do, and am often expected to do other things."
 
+^ PARIS: 
+
 ---
 
 # What can we learn from this?
 
 ^ MARS: 
 
-
 ---
 
 # Finding 
 
 ^ So, our first finding here...
+
+^ PARIS: 
 
 ---
 
@@ -734,6 +773,8 @@ Diagram by Steven Geringer from IBM.
 ## Data Scientists find Software Architecture important.
 ## This is good ✅
 
+^ PARIS: 
+
 ---
 
 # Finding 
@@ -741,19 +782,22 @@ Diagram by Steven Geringer from IBM.
 ## But don't get time to practice it.
 ## This is not so good ❌
 
+
+^ MARS: 
+
 ---
 
 # Finding 
 ## Software Engineers also find Software Architecture important.
 
-^ Next... 
+^ PARIS: Next... 
 
 ---
 
 # Finding 
 ## Software Engineers also find Software Architecture important. ✅
 
-^ Again, good.
+^ MARS: Again, good.
 
 ---
 
@@ -761,23 +805,27 @@ Diagram by Steven Geringer from IBM.
 ## Software Engineers also find Software Architecture important. ✅
 ## But also don't get time to practice it. ❌
 
-^ But also don't get time...
+^ PARIS: But also don't get time...
 
 ---
 
 # Finding 
 ## Software Architects... are fine.
 
-^ Also, software architects... they think it's important, and they're mostly busy doing it. Whatever they think it is.
+^ MARS: Also, software architects... they think it's important, and they're mostly busy doing it. Whatever they think it is.
 
 ---
 
 # Does what you do lead to tech debt? What is tech debt?
+
+^ PARIS: 
 
 ---
 
 # Does what you do lead to tech debt? What is tech debt?
 # **Data Scientist**
+
+^ MARS: 
 
 ---
 
@@ -786,12 +834,16 @@ Diagram by Steven Geringer from IBM.
 
 > "Tech debt is anything that ends up being a bad choice. Everything I do generates some kind of tech debt."
 
+^ PARIS: 
+
 ---
 
 # Does what you do lead to tech debt? What is tech debt?
 # **Data Scientist**
 
 > "Tech debt is a consequence of the way I have to work with data. I manipulate and massage data with pipelines of tools. They're not always designed to work together."
+
+^ MARS: 
 
 ---
 
@@ -800,12 +852,16 @@ Diagram by Steven Geringer from IBM.
 
 > "Almost everything I do has to be unpicked and rebuilt per-problem I'm trying to solve, or per-thing I'm trying to investigate."
 
+^ PARIS: 
+
 ---
 
 # Does what you do lead to tech debt? What is tech debt?
 # **Data Scientist**
 
 > "I generate a lot. I need to create a lot of code that hasn't got time or place to be tested or document because I'm working with lots of live data. Technical debt is more like a technical payday loan for a data scientist, I think."
+
+^ MARS: 
 
 ---
 
@@ -814,10 +870,14 @@ Diagram by Steven Geringer from IBM.
 
 > "I used to be a 'software engineer'. Now I'm a data scientist. What this practically means is that I make proofs of concept that get put into production. I get to iterate faster and do more stuff, but it's bad software engineering and bad software architecture."
 
+^ PARIS: 
+
 ---
 
 # Does what you do lead to tech debt? What is tech debt?
 # **Software Engineer**
+
+^ MARS: 
 
 ---
 
@@ -826,6 +886,8 @@ Diagram by Steven Geringer from IBM.
 
 > "Tech debt is everything I do that isn't planned."
 
+^ PARIS: 
+
 ---
 
 # Does what you do lead to tech debt? What is tech debt?
@@ -833,10 +895,14 @@ Diagram by Steven Geringer from IBM.
 
 > "Anything we don't plan properly leads to tech debt."
 
+^ MARS: 
+
 ---
 
 # Does what you do lead to tech debt? What is tech debt?
 # **Software Architect**
+
+^ PARIS: 
 
 ---
 
@@ -845,12 +911,7 @@ Diagram by Steven Geringer from IBM.
 
 > "Tech debt is when I don't do my job properly."
 
----
-
-# Does what you do lead to tech debt? What is tech debt?
-# **Software Architect**
-
-> "If there is tech debt in my team it means I didn't do my job."
+^ MARS: 
 
 ---
 
@@ -858,12 +919,25 @@ Diagram by Steven Geringer from IBM.
 # **Software Architect**
 
 > "If there is tech debt in my team it means I didn't do my job."
+
+^ MARS: 
+
+---
+
+# Does what you do lead to tech debt? What is tech debt?
+# **Software Architect**
+
+> "If there is tech debt in my team it means I didn't do my job."
+
+^ PARIS: 
 
 ---
 
 ## Finding 
 
 ^ So, our first finding here...
+
+^ MARS: 
 
 ---
 
@@ -872,7 +946,7 @@ Diagram by Steven Geringer from IBM.
 ## Everyone generally agrees on tech debt being bad.
 
 
-^ ?
+^ PARIS: 
 
 ---
 
@@ -881,6 +955,8 @@ Diagram by Steven Geringer from IBM.
 ## ... but nobody really agrees on what tech debt is.
 
 ^ ?
+
+^ MARS: 
 
 ---
 
@@ -892,36 +968,48 @@ TODO fill in the other questions here.
 
 ## Findings, summarised
 
+^ MARS: 
+
 ---
 
 ## Findings, summarised
 # Most data scientists expressed a desire to follow better software architecture and software engineering practices in what they do.
+
+^ PARIS: 
 
 ---
 
 ## Findings, summarised
 # Software engineers also want to absorb software architecture, but it's less important to them than to data scientists.
 
+^ MARS: 
+
 ---
 
 ## Recommendations
+
+^ PARIS: 
 
 ---
 
 ## Recommendations
 # **Architecture doesn't matter to data scientists, but not because they don't care.**
+
+^ MARS: 
 
 ---
 
 # **Architecture doesn't matter to data scientists, but not because they don't care.**
 # They need time and support to incorporate it.
 
-^ Finding a solution is more important than finding a good solution. Support them so that this doesn't have to be the case.
+^ PARIS: Finding a solution is more important than finding a good solution. Support them so that this doesn't have to be the case.
 
 ---
 
 ## Recommendations
 # Most data scientists are passable programmers.
+
+^ MARS: 
 
 ---
 
@@ -929,51 +1017,69 @@ TODO fill in the other questions here.
 # Most data scientists are passable programmers.
 # Most data scientists are not software engineers.
 
+^ PARIS: 
+
 ---
 
 ## Recommendations
 # Help your data scientists become software engineers, and software architects.
 
+^ MARS: 
+
 ---
 
 ## What's this look like?
+
+^ PARIS: 
 
 ---
 
 ## What's this look like?
 # 🤷‍♀ 🤷🏻‍♂️
 
+^ MARS: 
+
 ---
 
 ## Recommendations
 # We need more data scientists who are also _software_ people.
+
+^ PARIS: 
 
 ---
 
 ## Recommendations
 # This is not _one size fits all_.
 
+^ MARS: 
+
 ---
 
 ## Recommendations
 # We also need more _software people_ who embrace the nimble nature of data science.
 
+^ PARIS: 
+
 ---
 
 ![inline](speakers.png)
 
-^ Thats everything! Please tweet us your thoughts.
+^ MARS: Thats everything! Please tweet us your thoughts.
 
 ---
 
 # Thanks!
 ### **Full write-up soon at** <br />https://secretlab.institute
+
+^ PARIS: 
 
 ---
 
 # Thanks!
 ### **Full write-up soon at** <br />https://secretlab.institute
 ### "Meet the Experts" at 3PM today (Expo Hall)
+
+^ MARS: 
 
 ---
 
@@ -982,6 +1088,8 @@ TODO fill in the other questions here.
 ### **Full write-up soon at** <br />https://secretlab.institute
 ### "Meet the Experts" at 3PM today (Expo Hall)
 ### Book Signing at 5:30 PM today (Expo Hall)
+
+^ PARIS: 
 
 
 <!-- 
